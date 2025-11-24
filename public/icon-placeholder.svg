@@ -1,0 +1,7 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#dc2626" rx="64"/>
+  <text x="256" y="320" font-family="Arial, sans-serif" font-size="180" font-weight="bold" fill="white" text-anchor="middle">VS</text>
+  <circle cx="256" cy="180" r="60" fill="white" opacity="0.9"/>
+  <path d="M 256 140 L 276 190 L 236 190 Z" fill="#dc2626"/>
+</svg>
+
